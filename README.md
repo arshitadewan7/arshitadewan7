@@ -18,7 +18,7 @@
 ### 📂 Featured Projects  
 - 🎮 **Fruit Ninja (C++ & SFML)** – 2D slicing game with collision detection, score tracking, and animations  
 - 📊 **Stock Correlation Network (C++)** – Visualizes stock correlations using DOT graphs and Graphviz  
-- 🎙️ **WhisperAI (Python)** – Voice assistant using OpenAI’s GPT-3.5 with speech recognition & real-time interaction  
+- 🎙️ **WhisprAI (Python)** – Voice assistant using OpenAI’s GPT-3.5 with speech recognition & real-time interaction  
 - 📷 **Photo Booth Website** – Fun and interactive web app with filters, effects, and responsive UI  
 - 🧾 **Receipt Parser (C++)** – OCR-based tool to extract item names and prices from scanned receipts  
 
