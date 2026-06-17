@@ -1,234 +1,149 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0000,100:CC0000&height=200&section=header&text=ARSHITA%20DEWAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=CS%20%40%20UoA%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Startup%20Founder%20in%20Progress&descAlignY=75&descSize=16&descColor=ff4444" width="100%"/>
-
 <div align="center">
 
-<a href="https://linkedin.com/in/arshitadewan"><img src="https://img.shields.io/badge/-LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arshitad709@gmail.com"><img src="https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=CC0000"/></a>
-<img src="https://komarev.com/ghpvc/?username=arshitadewan7&label=profile+views&color=CC0000&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6c1e3c,100:c9184a&height=200&section=header&text=Arshita%20Dewan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Founder%20%26%20CEO%20%40%20clausifai%20%C2%B7%20AI%20%2B%20CS%20%40%20University%20of%20Adelaide&descAlignY=58&descSize=16&descColor=f4d6d6" width="100%"/>
+
+<a href="https://clausifai.com"><img src="https://img.shields.io/badge/clausifai.com-c9184a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/arshitadewan"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=c9184a"/></a>
+<a href="mailto:arshitad709@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c9184a"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=800&color=CC0000&center=true&width=700&lines=%5BSYS%5D+Building+clausifai.+%E2%80%94+AI+legal+infra+for+startups...;%5BSYS%5D+Interning+as+Full-Stack+%2B+AI+Engineer+%40+Bohniman+Systems...;%5BSYS%5D+Secretary+%40+WiSTEMs+%7C+University+of+Adelaide...;%5BSYS%5D+Open+to+SWE+%2F+AI+Engineering+roles+in+2026...;%5BSYS%5D+Shipping+fast.+Breaking+things.+Learning+faster." alt="terminal typing"/>
-</div>
+### Hey, I'm Arshita 👋
+
+I'm the Co-Founder & CEO of **[clausifai](https://clausifai.com)** — an AI-native contract intelligence platform helping Australian founders, freelancers, and SMEs understand and negotiate their contracts before they sign. I'm also finishing my Bachelor of Computer Science (AI major) at the **University of Adelaide**, graduating June 2026.
+
+I started clausifai in March 2026 and shipped the first version in 31 days. Since then it's grown to **13 paying customers, 138 total users, and zero churn**, almost entirely through organic growth. I'm currently a finalist for **Startmate Winter '26**.
+
+- 🏗️ Building the legal infrastructure layer for Australian small businesses — a jurisdiction-aware compliance engine is the core of the moat
+- 🎓 Graduating with a CS degree (AI major) in June 2026
+- 📍 Based in Adelaide, working out of ThincLab at Lot Fourteen
+- 🌱 Originally from Assam, India
+- 🗣️ Recently gave a guest talk to 200+ people at a ThincHer networking mixer
+- 💬 Always happy to talk startups, AI, or contract law nobody asked for
 
 <br/>
 
 ---
 
-## `$ cat about.json`
+<br/>
 
-```json
-{
-  "name": "Arshita Dewan",
-  "location": "Adelaide, AU  ←  Assam, IN",
-  "education": "B.Cs Computer Science @ University of Adelaide",
-  "current_role": "Full-Stack + AI Engineer Intern @ Bohniman Systems",
-  "past_roles": ["Commonwealth Bank", "JP Morgan Chase", "Partsmen Australia"],
-  "community": "Secretary @ WiSTEMs (Women in STEM Society, UoA)",
-  "currently_building": "clausifai. — AI-powered legal document management SaaS",
-  "side_quest": "Coding tutor @ Superprof",
-  "endgame": "Found a venture-backed AI startup",
-  "status": "open_to_opportunities: true"
-}
-```
-
----
-
-## `$ ls -la ./projects`
+### 🔴 What I'm building
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🔴 clausifai.
-> *AI-powered legal document infra for startups*
+**[clausifai.](https://clausifai.com)** — AI contract intelligence, built for Australia
 
-Built for the **UoA Tech eChallenge**. Flags unfair clauses. Benchmarks market-rate terms. Monitors contract relationship health over time. Brutalist black/white/red identity.
+Flags unfair or non-standard clauses, benchmarks terms against market norms, and gives founders and freelancers a lawyer-grade read on their contracts without the lawyer-grade bill. AU-only focus, with pricing from free to a lawyer-in-the-loop review tier.
 
-`Next.js` `AI` `SaaS` `Legal-tech`
+`Next.js` `Supabase` `Claude API` `Stripe` `Vercel`
 
-**STATUS:** `⬛ ACTIVE — IN COMPETITION`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔴 FolioLab
-> *Collaborative LeetCode + job-hunt tracker*
-
-Built with my friend Shivali. OAuth authentication, real-time sync, shared progress boards. Because grinding alone is overrated.
-
-`Svelte` `Supabase` `OAuth` `Real-time`
-
-**STATUS:** `⬛ ACTIVE — LIVE`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⬜ Crufindr
-> *AI cofounder matching platform*
-
-OpenAI-powered compatibility engine that matches founders by vision, skills, and working style. For people who are serious about building.
-
-`Vue.js` `Node.js` `MongoDB` `OpenAI API`
-
-**STATUS:** `✅ SHIPPED`
-
-</td>
-<td width="50%" valign="top">
-
-### ⬜ CourseSpace
-> *Notion-style academic organizer*
-
-For students who hate cluttered dashboards. Clean, fast, built for how students actually think.
-
-`Svelte` `LocalStorage` `Custom UI`
-
-**STATUS:** `✅ SHIPPED`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⬜ MyFi
-> *Personal Finance Tracker*
-
-Full-stack finance dashboard. Tracks budgets, assets, expenses, savings with real-time AJAX updates. Clean UI, zero bloat.
-
-`Node.js` `Express` `MySQL` `AJAX`
-
-**STATUS:** `✅ SHIPPED`
-
-</td>
-<td width="50%" valign="top">
-
-### ⬜ WhisprAI
-> *Voice-based AI assistant*
-
-Combines GPT-3.5 with real-time speech recognition for natural voice conversations. Built before everyone was doing it.
-
-`Python` `OpenAI API` `SpeechRecognition`
-
-**STATUS:** `✅ SHIPPED`
+**Status:** `🟢 Live · 13 paying customers · 0% churn`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `$ cat stack.config`
+### 🛠️ Past builds
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**── LANGUAGES ──**
+**FolioLab**
+Collaborative LeetCode + job-hunt tracker with real-time sync, built with a friend.
+`Svelte` `Supabase` `OAuth`
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=CC0000)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=CC0000)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=CC0000)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=CC0000)
+</td>
+<td width="50%" valign="top">
 
-**── FRONTEND ──**
+**Crufindr**
+AI-powered cofounder matching engine based on vision, skills, and working style.
+`Vue` `Node.js` `OpenAI API`
 
-![Svelte](https://img.shields.io/badge/Svelte-0a0a0a?style=flat-square&logo=svelte&logoColor=CC0000)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=CC0000)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-0a0a0a?style=flat-square&logo=vuedotjs&logoColor=CC0000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=CC0000)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**── BACKEND & DATA ──**
+**CourseSpace**
+Notion-style academic organizer for students.
+`Svelte` `Custom UI`
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=CC0000)
-![Django](https://img.shields.io/badge/Django-0a0a0a?style=flat-square&logo=django&logoColor=CC0000)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=CC0000)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=CC0000)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=CC0000)
+</td>
+<td width="50%" valign="top">
 
-**── AI / LLM ──**
+**WhisprAI**
+Voice-based AI assistant combining GPT-3.5 with real-time speech recognition.
+`Python` `OpenAI API`
 
-![Anthropic](https://img.shields.io/badge/Claude_API-0a0a0a?style=flat-square&logo=anthropic&logoColor=CC0000)
-![OpenAI](https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=CC0000)
-
-**── DEVOPS & TOOLS ──**
-
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=CC0000)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=CC0000)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=CC0000)
-
-</div>
-
----
-
-## `$ git log --oneline ./career`
-
-```
-f3a91cc  (HEAD → present)  intern: full-stack + AI engineer @ Bohniman Systems
-b72e410  intern: software engineering @ Partsmen Australia  
-9c3d8f1  intern: technology program @ Commonwealth Bank
-4ab12de  intern: technology program @ JP Morgan Chase
-1d9e077  init: BSc Computer Science @ University of Adelaide
-```
-
----
-
-## `$ top` — what's running right now
-
-```
-PID   PROCESS                          CPU    STATUS
----   -------                          ---    ------
-001   clausifai. (Tech eChallenge)     ████▒  ACTIVE
-002   FolioLab (w/ Shivali)            ███▒▒  ACTIVE
-003   WiSTEMs Secretary duties         ██▒▒▒  BACKGROUND
-004   Superprof coding tutoring        ██▒▒▒  BACKGROUND
-005   SWE/AI role search (2026)        ███▒▒  ACTIVE
-006   Learning: Docker + AWS + TS      ██▒▒▒  BACKGROUND
-```
-
----
-
-## `$ cat stats.sh | bash`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshitadewan7&show_icons=true&hide_title=true&hide_border=true&bg_color=0a0a0a&icon_color=CC0000&text_color=ffffff" height="155"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arshitadewan7&hide_border=true&background=0a0a0a&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="155"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitadewan7&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=ffffff&langs_count=8"/>
-
-</div>
-
 ---
 
-## `$ cat contribution_graph.ascii`
+<br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitadewan7&bg_color=0a0a0a&color=CC0000&line=CC0000&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
+### 🧰 Tools I use
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    shipping fast  ·  breaking things  ·  learning faster    ║
-║                                                              ║
-║              [ currently: building clausifai. ]              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=c9184a)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=c9184a)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=c9184a)
+&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square&logo=react&logoColor=c9184a)
+![Svelte](https://img.shields.io/badge/-Svelte-1a1a2e?style=flat-square&logo=svelte&logoColor=c9184a)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=c9184a)
+&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=c9184a)
+![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=c9184a)
+&nbsp;
+![Claude](https://img.shields.io/badge/-Claude_API-1a1a2e?style=flat-square&logo=anthropic&logoColor=c9184a)
+![OpenAI](https://img.shields.io/badge/-OpenAI-1a1a2e?style=flat-square&logo=openai&logoColor=white)
+&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-1a1a2e?style=flat-square&logo=git&logoColor=c9184a)
+![Docker](https://img.shields.io/badge/-Docker-1a1a2e?style=flat-square&logo=docker&logoColor=c9184a)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:CC0000,100:0a0a0a&height=100&section=footer&reversal=true" width="100%"/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arshitadewan7&show_icons=true&hide_title=true&hide_border=true&bg_color=1a1a2e&icon_color=c9184a&text_color=f4d6d6&title_color=c9184a" height="155"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arshitadewan7&hide_border=true&background=1a1a2e&ring=c9184a&fire=c9184a&currStreakLabel=c9184a&sideLabels=f4d6d6&dates=888888&currStreakNum=f4d6d6&sideNums=f4d6d6" height="155"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitadewan7&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c9184a&text_color=f4d6d6&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitadewan7&bg_color=1a1a2e&color=c9184a&line=c9184a&point=f4d6d6&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Currently building [clausifai](https://clausifai.com) — say hi if you're working on something interesting too.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9184a,100:1a1a2e&height=100&section=footer" width="100%"/>
