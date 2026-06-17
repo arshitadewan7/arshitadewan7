@@ -1,39 +1,64 @@
-<img src="./assets/banner.svg" width="100%" alt="Arshita Dewan — Computer Science + AI, University of Adelaide"/>
+<div align="center">
+
+# arshita dewan
+
+`computer science, ai` · `university of adelaide` · `adelaide, au`
+
+</div>
 
 <br/>
 
-I'm finishing a Bachelor of Computer Science, majoring in AI, at the University of Adelaide — graduating June 2026. Most of what's here is the result of being curious about a problem and then just building the thing rather than waiting to feel ready.
+I build things end to end — model, backend, ship — because I'd rather learn a system by constructing it than by reading about it. Most of what's below started as a question I couldn't answer any other way.
 
-I'm originally from Assam, India, and based in Adelaide now. Outside of coursework I'm Secretary of WiSTEMs (Women in STEM Society at UoA), and I'm currently building **clausifai**, an AI-powered tool that helps people make sense of their contracts.
+Currently: building **clausifai**, an AI-native platform for reading and understanding contracts, and finishing a CS degree with an AI major.
 
-### coursework that actually stuck with me
+---
 
-Three projects from my AI major that I keep coming back to, mostly because they made me rethink something:
+### trajectory
 
-**Music generation with an LSTM + attention.** Trained on the MAESTRO dataset to generate piano music. Watching a model slowly learn *phrasing* rather than just notes was the first time a loss curve actually felt like something.
+What I work on has moved in a fairly direct line: small full-stack tools, then voice and language interfaces, then matching and recommendation systems, and now applied AI inside a real product with real users. Each project mostly exists because the previous one exposed a gap I wanted to go fix.
 
-**AI vs. human text classification.** Fine-tuned RoBERTa to tell the two apart. Turns out the model and I disagree on the same sentences a human would find ambiguous too.
+```
+2023   full-stack fundamentals      MyFi, CourseSpace
+2024   conversational AI            WhisprAI
+2025   matching & ranking systems   Crufindr, FolioLab
+2026   applied AI in production     clausifai
+```
 
-**Wumpus World.** A logic-based agent navigating a grid it can't see, using only inference. Old-school AI, no neural net in sight, and still one of the more satisfying things I've debugged.
+---
 
-### things i've built
+### projects
 
-**clausifai** — an AI-powered platform that reads contracts and flags clauses worth a second look, built for people who don't have a lawyer on speed dial. `Next.js` · `Supabase` · `Claude API`
+**clausifai**
+AI-native contract intelligence. Parses real legal documents, flags clauses that deviate from market norms, and explains the risk in plain language — built for people who need a second opinion on a contract and don't have a lawyer on retainer.
+`next.js` `supabase` `claude api` `stripe`
 
-**FolioLab** — a shared LeetCode and job-hunt tracker, built with a friend so neither of us could quietly give up on grinding alone. `Svelte` · `Supabase` · `OAuth`
+**FolioLab**
+A shared interview-prep tracker built with a friend — real-time sync across two accounts so neither of us could quietly stop showing up.
+`svelte` `supabase` `oauth`
 
-**Crufindr** — a cofounder-matching tool that pairs people by working style and vision, not just skills on a resume. `Vue.js` · `Node.js` · `OpenAI API`
+**Crufindr**
+A cofounder-matching engine that scores compatibility on working style and vision, not just listed skills.
+`vue.js` `node.js` `openai api`
 
-**CourseSpace** — a calmer, Notion-style dashboard for students who didn't need eleven more tabs open. `Svelte`
+**WhisprAI**
+A voice assistant pairing GPT-3.5 with live speech recognition, built before this category had a name.
+`python` `openai api` `speech recognition`
 
-**MyFi** — a personal finance tracker for budgets and savings, built because spreadsheets were getting embarrassing. `Node.js` · `MySQL`
+**CourseSpace**
+A minimal, Notion-style academic dashboard — built because most student tools are cluttered by default.
+`svelte`
 
-**WhisprAI** — a voice assistant pairing GPT-3.5 with live speech recognition, from before everyone was building one of these. `Python` · `OpenAI API`
+**MyFi**
+A personal finance tracker with live budget and savings calculations.
+`node.js` `express` `mysql`
 
-### what i reach for
+---
 
-Python and TypeScript most days. React, Next.js, and Svelte depending on mood. Supabase for anything that needs a backend without the ceremony. Increasingly comfortable in the space where machine learning meets actual product.
+### currently reaching for
 
-<br/>
+`python` `typescript` `next.js` `react` `svelte` `supabase` `claude api` `openai api`
 
-<sub>thanks for reading this far — feel free to reach out: [arshitad709@gmail.com](mailto:arshitad709@gmail.com) · [linkedin](https://linkedin.com/in/arshitadewan)</sub>
+---
+
+<sub>[arshitad709@gmail.com](mailto:arshitad709@gmail.com) · [linkedin.com/in/arshitadewan](https://linkedin.com/in/arshitadewan)</sub>
