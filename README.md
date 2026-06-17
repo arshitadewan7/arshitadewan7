@@ -2,8 +2,8 @@
 
 # arshita dewan
 
-![](https://img.shields.io/badge/computer_science-E84A3D?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/ai-E84A3D?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/computer_science-E94F8A?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/ai-E94F8A?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/university_of_adelaide-1C1B1F?style=flat-square&logoColor=white)
 
 </div>
@@ -22,10 +22,10 @@ Currently: building **clausifai**, an AI-native platform for reading and underst
 
 | year | phase | built |
 |:--|:--|:--|
-| `2023` | ![](https://img.shields.io/badge/-full--stack_fundamentals-E84A3D?style=flat-square) | MyFi, CourseSpace |
-| `2024` | ![](https://img.shields.io/badge/-conversational_ai-E84A3D?style=flat-square) | WhisprAI |
-| `2025` | ![](https://img.shields.io/badge/-matching_%26_ranking-E84A3D?style=flat-square) | Crufindr, FolioLab |
-| `2026` | ![](https://img.shields.io/badge/-applied_ai_in_production-E84A3D?style=flat-square) | clausifai |
+| `2023` | ![](https://img.shields.io/badge/-full--stack_fundamentals-E94F8A?style=flat-square) | MyFi, CourseSpace |
+| `2024` | ![](https://img.shields.io/badge/-conversational_ai-E94F8A?style=flat-square) | WhisprAI |
+| `2025` | ![](https://img.shields.io/badge/-matching_%26_ranking-E94F8A?style=flat-square) | Crufindr, FolioLab |
+| `2026` | ![](https://img.shields.io/badge/-applied_ai_in_production-E94F8A?style=flat-square) | clausifai |
 
 <br/>
 
@@ -33,19 +33,19 @@ Currently: building **clausifai**, an AI-native platform for reading and underst
 
 **🔺 clausifai**
 AI-native contract intelligence. Parses real legal documents, flags clauses that deviate from market norms, and explains the risk in plain language — built for people who need a second opinion on a contract and don't have a lawyer on retainer.
-![](https://img.shields.io/badge/next.js-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/supabase-E84A3D?style=flat-square) ![](https://img.shields.io/badge/claude_api-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/stripe-E84A3D?style=flat-square)
+![](https://img.shields.io/badge/next.js-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/supabase-E94F8A?style=flat-square) ![](https://img.shields.io/badge/claude_api-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/stripe-E94F8A?style=flat-square)
 
 **🔺 FolioLab**
 A shared interview-prep tracker built with a friend — real-time sync across two accounts so neither of us could quietly stop showing up.
-![](https://img.shields.io/badge/svelte-E84A3D?style=flat-square) ![](https://img.shields.io/badge/supabase-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/oauth-E84A3D?style=flat-square)
+![](https://img.shields.io/badge/svelte-E94F8A?style=flat-square) ![](https://img.shields.io/badge/supabase-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/oauth-E94F8A?style=flat-square)
 
 **🔺 Crufindr**
 A cofounder-matching engine that scores compatibility on working style and vision, not just listed skills.
-![](https://img.shields.io/badge/vue.js-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/node.js-E84A3D?style=flat-square) ![](https://img.shields.io/badge/openai_api-1C1B1F?style=flat-square)
+![](https://img.shields.io/badge/vue.js-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/node.js-E94F8A?style=flat-square) ![](https://img.shields.io/badge/openai_api-1C1B1F?style=flat-square)
 
 **🔺 WhisprAI**
 A voice assistant pairing GPT-3.5 with live speech recognition, built before this category had a name.
-![](https://img.shields.io/badge/python-E84A3D?style=flat-square) ![](https://img.shields.io/badge/openai_api-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/speech_recognition-E84A3D?style=flat-square)
+![](https://img.shields.io/badge/python-E94F8A?style=flat-square) ![](https://img.shields.io/badge/openai_api-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/speech_recognition-E94F8A?style=flat-square)
 
 **🔺 CourseSpace**
 A minimal, Notion-style academic dashboard — built because most student tools are cluttered by default.
@@ -53,18 +53,37 @@ A minimal, Notion-style academic dashboard — built because most student tools 
 
 **🔺 MyFi**
 A personal finance tracker with live budget and savings calculations.
-![](https://img.shields.io/badge/node.js-E84A3D?style=flat-square) ![](https://img.shields.io/badge/express-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/mysql-E84A3D?style=flat-square)
+![](https://img.shields.io/badge/node.js-E94F8A?style=flat-square) ![](https://img.shields.io/badge/express-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/mysql-E94F8A?style=flat-square)
 
 <br/>
 
 ### currently reaching for
 
-![](https://img.shields.io/badge/python-E84A3D?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/python-E94F8A?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/typescript-1C1B1F?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/next.js-E84A3D?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/next.js-E94F8A?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/react-1C1B1F?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/supabase-E84A3D?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/supabase-E94F8A?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/claude_api-1C1B1F?style=for-the-badge&logoColor=white)
+
+<br/>
+
+<br/>
+
+### github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arshitadewan7&show_icons=true&hide_title=true&hide_border=true&bg_color=FFF8F0&icon_color=E94F8A&text_color=1C1B1F&title_color=E94F8A" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arshitadewan7&hide_border=true&background=FFF8F0&ring=E94F8A&fire=E94F8A&currStreakLabel=E94F8A&sideLabels=1C1B1F&dates=6B6B70&currStreakNum=1C1B1F&sideNums=1C1B1F" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitadewan7&layout=compact&hide_border=true&bg_color=FFF8F0&title_color=E94F8A&text_color=1C1B1F&langs_count=8" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitadewan7&bg_color=FFF8F0&color=E94F8A&line=E94F8A&point=1C1B1F&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 <br/>
 
