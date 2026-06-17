@@ -1,158 +1,39 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD6E8,50:E0C3FC,100:C3E8FF&height=200&section=header&text=Hi,%20I'm%20Arshita%20%E2%9C%A8&fontSize=46&fontColor=5b3a5d&animation=fadeIn&fontAlignY=40&desc=CS%20%2B%20AI%20student%20%40%20University%20of%20Adelaide%20%F0%9F%8C%B8&descAlignY=58&descSize=16&descColor=6d4b6e" width="100%"/>
-
-<a href="https://linkedin.com/in/arshitadewan"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=6d4b6e"/></a>
-<a href="mailto:arshitad709@gmail.com"><img src="https://img.shields.io/badge/Email-E0C3FC?style=for-the-badge&logo=gmail&logoColor=6d4b6e"/></a>
-<a href="https://clausifai.com"><img src="https://img.shields.io/badge/clausifai.com-C3E8FF?style=for-the-badge&logo=googlechrome&logoColor=6d4b6e"/></a>
-
-</div>
+<img src="./assets/banner.svg" width="100%" alt="Arshita Dewan — Computer Science + AI, University of Adelaide"/>
 
 <br/>
 
-### 🌸 about me
+I'm finishing a Bachelor of Computer Science, majoring in AI, at the University of Adelaide — graduating June 2026. Most of what's here is the result of being curious about a problem and then just building the thing rather than waiting to feel ready.
 
-I'm a Computer Science student at the **University of Adelaide**, majoring in AI, and graduating in June 2026 🎓 I love building things that mix software engineering with machine learning, and I'm always looking for the next interesting problem to dig into.
+I'm originally from Assam, India, and based in Adelaide now. Outside of coursework I'm Secretary of WiSTEMs (Women in STEM Society at UoA), and I'm currently building **clausifai**, an AI-powered tool that helps people make sense of their contracts.
 
-- 🧠 Studying AI/ML — coursework has taken me through neural networks, NLP, and logical reasoning agents
-- 💻 I like full-stack development almost as much as I like the AI side of things
-- 📍 Based in Adelaide, Australia, originally from Assam, India 🇮🇳
-- 🌱 Currently building **clausifai**, an AI-powered contract intelligence platform
-- 🎀 Secretary @ WiSTEMs (Women in STEM Society, UoA)
-- ☕ Happiest when I'm deep in a build with good music on
+### coursework that actually stuck with me
 
-<br/>
+Three projects from my AI major that I keep coming back to, mostly because they made me rethink something:
 
----
+**Music generation with an LSTM + attention.** Trained on the MAESTRO dataset to generate piano music. Watching a model slowly learn *phrasing* rather than just notes was the first time a loss curve actually felt like something.
 
-<br/>
+**AI vs. human text classification.** Fine-tuned RoBERTa to tell the two apart. Turns out the model and I disagree on the same sentences a human would find ambiguous too.
 
-### 🎨 things i've built
+**Wumpus World.** A logic-based agent navigating a grid it can't see, using only inference. Old-school AI, no neural net in sight, and still one of the more satisfying things I've debugged.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### things i've built
 
-**🩷 clausifai.**
-An AI-powered platform that helps people understand their contracts — flags unusual clauses and makes legal documents less intimidating.
+**clausifai** — an AI-powered platform that reads contracts and flags clauses worth a second look, built for people who don't have a lawyer on speed dial. `Next.js` · `Supabase` · `Claude API`
 
-`Next.js` `Supabase` `Claude API`
+**FolioLab** — a shared LeetCode and job-hunt tracker, built with a friend so neither of us could quietly give up on grinding alone. `Svelte` · `Supabase` · `OAuth`
 
-</td>
-<td width="50%" valign="top">
+**Crufindr** — a cofounder-matching tool that pairs people by working style and vision, not just skills on a resume. `Vue.js` · `Node.js` · `OpenAI API`
 
-**💜 FolioLab**
-A collaborative LeetCode + job-hunt tracker built with a friend, with real-time sync so you're never grinding alone.
+**CourseSpace** — a calmer, Notion-style dashboard for students who didn't need eleven more tabs open. `Svelte`
 
-`Svelte` `Supabase` `OAuth`
+**MyFi** — a personal finance tracker for budgets and savings, built because spreadsheets were getting embarrassing. `Node.js` · `MySQL`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**WhisprAI** — a voice assistant pairing GPT-3.5 with live speech recognition, from before everyone was building one of these. `Python` · `OpenAI API`
 
-**🩵 Crufindr**
-An AI cofounder-matching platform that pairs founders based on vision, skills, and working style.
+### what i reach for
 
-`Vue.js` `Node.js` `OpenAI API`
-
-</td>
-<td width="50%" valign="top">
-
-**🤍 CourseSpace**
-A Notion-style academic organizer for students who want a calmer, cleaner dashboard.
-
-`Svelte` `Custom UI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💛 MyFi**
-A personal finance tracker for budgets, savings, and expenses, with real-time updates.
-
-`Node.js` `Express` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**🤎 WhisprAI**
-A voice-based AI assistant combining GPT-3.5 with real-time speech recognition for natural conversations.
-
-`Python` `OpenAI API`
-
-</td>
-</tr>
-</table>
+Python and TypeScript most days. React, Next.js, and Svelte depending on mood. Supabase for anything that needs a backend without the ceremony. Increasingly comfortable in the space where machine learning meets actual product.
 
 <br/>
 
-### 🧠 coursework i've enjoyed
-
-A few uni projects that stuck with me:
-
-- 🎵 Built an RNN-based **music generation model** (LSTM with attention) trained on the MAESTRO dataset
-- 🤖 Trained a **text classifier** to distinguish AI-generated from human-written text (RoBERTa-base)
-- 🐾 Built a logical inference agent for the classic **Wumpus World** problem
-
-<br/>
-
----
-
-<br/>
-
-### 🌷 my toolkit
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-FFD6E8?style=flat-square&logo=python&logoColor=6d4b6e)
-![TypeScript](https://img.shields.io/badge/-TypeScript-E0C3FC?style=flat-square&logo=typescript&logoColor=6d4b6e)
-![JavaScript](https://img.shields.io/badge/-JavaScript-C3E8FF?style=flat-square&logo=javascript&logoColor=6d4b6e)
-&nbsp;
-![React](https://img.shields.io/badge/-React-FFD6E8?style=flat-square&logo=react&logoColor=6d4b6e)
-![Next.js](https://img.shields.io/badge/-Next.js-E0C3FC?style=flat-square&logo=nextdotjs&logoColor=6d4b6e)
-![Svelte](https://img.shields.io/badge/-Svelte-C3E8FF?style=flat-square&logo=svelte&logoColor=6d4b6e)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-FFD6E8?style=flat-square&logo=tailwindcss&logoColor=6d4b6e)
-&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-E0C3FC?style=flat-square&logo=nodedotjs&logoColor=6d4b6e)
-![Supabase](https://img.shields.io/badge/-Supabase-C3E8FF?style=flat-square&logo=supabase&logoColor=6d4b6e)
-&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAI-FFD6E8?style=flat-square&logo=openai&logoColor=6d4b6e)
-![Claude](https://img.shields.io/badge/-Claude_API-E0C3FC?style=flat-square&logo=anthropic&logoColor=6d4b6e)
-&nbsp;
-![Git](https://img.shields.io/badge/-Git-C3E8FF?style=flat-square&logo=git&logoColor=6d4b6e)
-![Docker](https://img.shields.io/badge/-Docker-FFD6E8?style=flat-square&logo=docker&logoColor=6d4b6e)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arshitadewan7&show_icons=true&hide_title=true&hide_border=true&bg_color=FFF5FA&icon_color=C77DFF&text_color=6d4b6e&title_color=C77DFF" height="155"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arshitadewan7&hide_border=true&background=FFF5FA&ring=C77DFF&fire=FFADC6&currStreakLabel=C77DFF&sideLabels=6d4b6e&dates=9b8aa0&currStreakNum=6d4b6e&sideNums=6d4b6e" height="155"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitadewan7&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=C77DFF&text_color=6d4b6e&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitadewan7&bg_color=FFF5FA&color=C77DFF&line=C77DFF&point=FFADC6&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*thanks for stopping by 🌷 always up for a chat about code, AI, or whatever I'm building next*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C3E8FF,50:E0C3FC,100:FFD6E8&height=100&section=footer" width="100%"/>
+<sub>thanks for reading this far — feel free to reach out: [arshitad709@gmail.com](mailto:arshitad709@gmail.com) · [linkedin](https://linkedin.com/in/arshitadewan)</sub>
