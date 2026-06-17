@@ -83,6 +83,10 @@ A personal finance tracker with live budget and savings calculations.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitadewan7&bg_color=FFF8F0&color=E94F8A&line=E94F8A&point=1C1B1F&area=true&hide_border=true" width="100%"/>
 
+<br/>
+
+<img src="https://ghchart.rshah.org/E94F8A/arshitadewan7" width="100%"/>
+
 </div>
 
 <br/>
