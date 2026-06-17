@@ -10,7 +10,7 @@
 
 <br/>
 
-I build things end to end — model, backend, ship — because I'd rather learn a system by constructing it than by reading about it. Most of what's below started as a question I couldn't answer any other way.
+I build things end to end - model, backend, ship - because I'd rather learn a system by constructing it than by reading about it. Most of what's below started as a question I couldn't answer any other way.
 
 Currently: building **clausifai**, an AI-native platform for reading and understanding contracts, and finishing a CS degree with an AI major.
 
