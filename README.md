@@ -87,6 +87,11 @@ Minimal, Notion-style academic dashboard.
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=arshitadewan7&background=FFF8F0&ring=E94F8A&fire=E94F8A&currStreakLabel=E94F8A&sideLabels=1C1B1F&dates=6B6B70&currStreakNum=1C1B1F&sideNums=1C1B1F&border=E94F8A&border_radius=10" />
+
+<br/>
+<br/>
+
 <img src="https://ghchart.rshah.org/E94F8A/arshitadewan7" width="100%"/>
 
 </div>
