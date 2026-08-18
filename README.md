@@ -67,21 +67,18 @@ A personal finance tracker with live budget and savings calculations.
 ![](https://img.shields.io/badge/claude_api-1C1B1F?style=for-the-badge&logoColor=white)
 
 <br/>
-
 <br/>
 
 ### github stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arshitadewan7&show_icons=true&hide_title=true&hide_border=true&bg_color=FFF8F0&icon_color=E94F8A&text_color=1C1B1F&title_color=E94F8A" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arshitadewan7&hide_border=true&background=FFF8F0&ring=E94F8A&fire=E94F8A&currStreakLabel=E94F8A&sideLabels=1C1B1F&dates=6B6B70&currStreakNum=1C1B1F&sideNums=1C1B1F" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshitadewan7&layout=compact&hide_border=true&bg_color=FFF8F0&title_color=E94F8A&text_color=1C1B1F&langs_count=8" height="160"/>
+<img src="./generated/overview.svg" height="200"/>
+<img src="./generated/languages.svg" height="200"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshitadewan7&bg_color=FFF8F0&color=E94F8A&line=E94F8A&point=1C1B1F&area=true&hide_border=true" width="100%"/>
+<img src="./assets/streak.svg" height="200"/>
 
 <br/>
 
