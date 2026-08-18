@@ -1,86 +1,91 @@
 <div align="center">
 
-# arshita dewan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1B1F,100:E94F8A&height=220&section=header&text=Arshita%20Dewan&fontSize=60&fontColor=FFF8F0&fontAlignY=38&desc=CEO%20%26%20Co-Founder%2C%20Clausifai&descAlignY=58&descSize=20&descColor=FFF8F0&animation=fadeIn" width="100%"/>
 
-![](https://img.shields.io/badge/computer_science-E94F8A?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/ai-E94F8A?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/university_of_adelaide-1C1B1F?style=flat-square&logoColor=white)
+<br/>
+
+<a href="https://linkedin.com/in/arshitadewan"><img src="https://img.shields.io/badge/LinkedIn-1C1B1F?style=for-the-badge&logo=linkedin&logoColor=E94F8A" /></a>
+<a href="mailto:arshitad709@gmail.com"><img src="https://img.shields.io/badge/Email-1C1B1F?style=for-the-badge&logo=gmail&logoColor=E94F8A" /></a>
+<a href="https://clausifai.com"><img src="https://img.shields.io/badge/Clausifai-1C1B1F?style=for-the-badge&logo=vercel&logoColor=E94F8A" /></a>
 
 </div>
 
 <br/>
 
-I build things end to end - model, backend, ship - because I'd rather learn a system by constructing it than by reading about it. Most of what's below started as a question I couldn't answer any other way.
+## about me
 
-Currently: building **clausifai**, an AI-native platform for reading and understanding contracts, and finishing a CS degree with an AI major.
+I build things end to end, model, backend, ship, because I'd rather learn a system by constructing it than by reading about it. Most of what's below started as a question I couldn't answer any other way.
 
-<br/>
-
-### trajectory
-
-> What I work on has moved in a fairly direct line: small full-stack tools, then voice and language interfaces, then matching and recommendation systems, and now applied AI inside a real product with real users.
-
-| year | phase | built |
-|:--|:--|:--|
-| `2023` | ![](https://img.shields.io/badge/-full--stack_fundamentals-E94F8A?style=flat-square) | MyFi, CourseSpace |
-| `2024` | ![](https://img.shields.io/badge/-conversational_ai-E94F8A?style=flat-square) | WhisprAI |
-| `2025` | ![](https://img.shields.io/badge/-matching_%26_ranking-E94F8A?style=flat-square) | Crufindr, FolioLab |
-| `2026` | ![](https://img.shields.io/badge/-applied_ai_in_production-E94F8A?style=flat-square) | clausifai |
+CEO and co-founder of **[Clausifai](https://clausifai.com)**, an AI-native contract intelligence platform for Australian businesses. CS graduate (AI major) from the University of Adelaide, originally from Assam, India.
 
 <br/>
 
-### projects
+## clausifai
 
-**🔺 clausifai**
-AI-native contract intelligence. Parses real legal documents, flags clauses that deviate from market norms, and explains the risk in plain language — built for people who need a second opinion on a contract and don't have a lawyer on retainer.
-![](https://img.shields.io/badge/next.js-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/supabase-E94F8A?style=flat-square) ![](https://img.shields.io/badge/claude_api-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/stripe-E94F8A?style=flat-square)
+<div align="left">
 
-**🔺 FolioLab**
-A shared interview-prep tracker built with a friend — real-time sync across two accounts so neither of us could quietly stop showing up.
-![](https://img.shields.io/badge/svelte-E94F8A?style=flat-square) ![](https://img.shields.io/badge/supabase-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/oauth-E94F8A?style=flat-square)
+**AI-powered contract generation, review, and e-signature, grounded in Australian law.**
 
-**🔺 Crufindr**
-A cofounder-matching engine that scores compatibility on working style and vision, not just listed skills.
-![](https://img.shields.io/badge/vue.js-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/node.js-E94F8A?style=flat-square) ![](https://img.shields.io/badge/openai_api-1C1B1F?style=flat-square)
+Built and shipped in 31 days. Now in the Startmate Winter '26 accelerator. Parses real legal documents, flags clauses that deviate from market norms, and explains risk in plain language, for businesses that need a second opinion and don't have a lawyer on retainer.
 
-**🔺 WhisprAI**
-A voice assistant pairing GPT-3.5 with live speech recognition, built before this category had a name.
-![](https://img.shields.io/badge/python-E94F8A?style=flat-square) ![](https://img.shields.io/badge/openai_api-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/speech_recognition-E94F8A?style=flat-square)
+`Next.js` · `Supabase` · `Vercel` · `Stripe` · `Claude API` · `AustLII`
 
-**🔺 CourseSpace**
-A minimal, Notion-style academic dashboard — built because most student tools are cluttered by default.
-![](https://img.shields.io/badge/svelte-1C1B1F?style=flat-square)
-
-**🔺 MyFi**
-A personal finance tracker with live budget and savings calculations.
-![](https://img.shields.io/badge/node.js-E94F8A?style=flat-square) ![](https://img.shields.io/badge/express-1C1B1F?style=flat-square) ![](https://img.shields.io/badge/mysql-E94F8A?style=flat-square)
+</div>
 
 <br/>
 
-### currently reaching for
+## earlier builds
 
-![](https://img.shields.io/badge/python-E94F8A?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/typescript-1C1B1F?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/next.js-E94F8A?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/react-1C1B1F?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/supabase-E94F8A?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/claude_api-1C1B1F?style=for-the-badge&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+
+**FolioLab**
+Shared interview-prep tracker, real-time sync built for accountability.
+`Svelte` `Supabase` `OAuth`
+
+</td>
+<td width="50%">
+
+**Crufindr**
+Cofounder-matching engine scoring compatibility on working style, not just skills.
+`Vue` `Node.js` `OpenAI API`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**WhisprAI**
+Voice assistant pairing GPT-3.5 with live speech recognition.
+`Python` `OpenAI API` `Speech Recognition`
+
+</td>
+<td width="50%">
+
+**CourseSpace**
+Minimal, Notion-style academic dashboard.
+`Svelte`
+
+</td>
+</tr>
+</table>
 
 <br/>
-<br/>
 
-### github stats
+## toolkit
 
 <div align="center">
 
-<img src="./generated/overview.svg" height="200"/>
-<img src="./generated/languages.svg" height="200"/>
+<img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,supabase,vercel,stripe,postgres&theme=dark" />
+
+</div>
 
 <br/>
 
-<img src="./assets/streak.svg" height="200"/>
+## activity
 
-<br/>
+<div align="center">
 
 <img src="https://ghchart.rshah.org/E94F8A/arshitadewan7" width="100%"/>
 
@@ -88,6 +93,8 @@ A personal finance tracker with live budget and savings calculations.
 
 <br/>
 
----
+<div align="center">
 
-<sub>📧 [arshitad709@gmail.com](mailto:arshitad709@gmail.com) &nbsp;·&nbsp; 🔗 [linkedin.com/in/arshitadewan](https://linkedin.com/in/arshitadewan)</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E94F8A,100:1C1B1F&height=100&section=footer" width="100%"/>
+
+</div>
